@@ -25,6 +25,7 @@ fn gen_input_data() -> (Vec<Vec<u16>>, Vec<u16>) {
             .collect();
         val
     }
+    
     fn read_line_u16_without_fst_char() -> Vec<u16> {
         let stdin = io::stdin();
         let mut val = String::new();
