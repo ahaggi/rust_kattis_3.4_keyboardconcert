@@ -16,6 +16,7 @@ The minimum number of times Olav needs to switch the instrument he is using duri
 
 <tbody>
 
+
 <tr>
 
 <th>Sample Input 1</th>
